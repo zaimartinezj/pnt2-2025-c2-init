@@ -7,6 +7,7 @@ export default function Home() {
       <h1> Esta es mi pagina Home</h1>
       <User nombre="Pablo" edad="45" />
       <br />
+      
       <User nombre="Anna" edad="34" />
       <br />
       <User nombre="Juana" edad="45" />
